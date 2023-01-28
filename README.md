@@ -22,8 +22,8 @@
   <a href="https://www.linkedin.com/in/deivison-oliveira-7ab06b22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  <div>
+<div>
   <a href="[https://github.com/deivisondev](https://github.com/deivisondev)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deivisondev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisondev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deivisondev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisondev&layout=compact&langs_count=16&theme=radical"/>
 </div>
