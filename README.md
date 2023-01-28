@@ -4,6 +4,12 @@
   <a href="https://github.com/deivisondev">
 </div>
   
+<div>
+  <a href="[https://github.com/deivisondev](https://github.com/deivisondev)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deivisondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisondev&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
 ### Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Deivison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,10 +26,4 @@
   
  <div> 
   <a href="https://www.linkedin.com/in/deivison-oliveira-7ab06b22a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-<div>
-  <a href="[https://github.com/deivisondev](https://github.com/deivisondev)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deivisondev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivisondev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
