@@ -1,4 +1,4 @@
-## Olá, eu sou Deivison, desenvolvedor WEB e estudante de Ciência da Computação!
+## Olá, eu sou Deivison, desenvolvedor WEB!
 
 <div align="center">
   <a href="https://github.com/deivisondev">
